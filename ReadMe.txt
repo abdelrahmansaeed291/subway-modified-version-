@@ -13,6 +13,7 @@
   
 ### How to run the game 
   + pull the project and run the file OpenGLMeshLoader.sln .
+  + while running if a message with(there were build errors) press yes .
   
 ### Technologies
   + C and C++ (openGL).
