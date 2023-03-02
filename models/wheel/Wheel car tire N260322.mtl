@@ -1,0 +1,54 @@
+# 3ds Max Wavefront OBJ Exporter v0.94b - (c)2007 guruware
+# File Created: 26.03.2022 10:53:03
+
+newmtl Chrome
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8157 0.8314 0.9255
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Rubber_side
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0706 0.0706 0.0706
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\New folder 2\side_1m.jpg
+	map_Kd D:\New folder 2\side_1m.jpg
+
+newmtl Plastic_white
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.9686 0.9765 0.9922
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Rubber_tire
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0706 0.0706 0.0706
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\New folder 2\Module_m.jpg
+	map_Kd D:\New folder 2\Module_m.jpg

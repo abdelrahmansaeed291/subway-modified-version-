@@ -1,0 +1,98 @@
+# 3ds Max Wavefront OBJ Exporter v0.94b - (c)2007 guruware
+# File Created: 19.06.2018 07:39:28
+
+newmtl _Boatdefault
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _Boatspeed_diff
+	Ns 1.5000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\New folder 2\Speed_Diffs.png
+	map_Kd D:\New folder 2\Speed_Diffs.png
+
+newmtl _Boatvehicle_generic_detail2
+	Ns 1.5000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\New folder 2\Details.png
+	map_Kd D:\New folder 2\Details.png
+
+newmtl _Boatvehicle_generic_glasswindows2
+	Ns 1.5000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\New folder 2\Windows.png
+	map_Kd D:\New folder 2\Windows.png
+
+newmtl _BoatMaterial__129
+	Ns 1.5000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\New folder 2\Dash.png
+	map_Kd D:\New folder 2\Dash.png
+
+newmtl _Boatscript_rt_dials_truck
+	Ns 1.5000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\New folder 2\Dials.png
+	map_Kd D:\New folder 2\Dials.png
+
+newmtl _BoatMarlin
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\New folder 2\Marlin.png
+	map_Kd D:\New folder 2\Marlin.png
