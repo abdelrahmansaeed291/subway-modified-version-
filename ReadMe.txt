@@ -1,40 +1,19 @@
-========================================================================
-    CONSOLE APPLICATION : OpenGL3DTemplate Project Overview
-========================================================================
-
-AppWizard has created this OpenGL3DTemplate application for you.
-
-This file contains a summary of what you will find in each of the files that
-make up your OpenGL3DTemplate application.
-
-
-OpenGL3DTemplate.vcxproj
-    This is the main project file for VC++ projects generated using an Application Wizard.
-    It contains information about the version of Visual C++ that generated the file, and
-    information about the platforms, configurations, and project features selected with the
-    Application Wizard.
-
-OpenGL3DTemplate.vcxproj.filters
-    This is the filters file for VC++ projects generated using an Application Wizard. 
-    It contains information about the association between the files in your project 
-    and the filters. This association is used in the IDE to show grouping of files with
-    similar extensions under a specific node (for e.g. ".cpp" files are associated with the
-    "Source Files" filter).
-
-OpenGL3DTemplate.cpp
-    This is the main application source file.
-
-/////////////////////////////////////////////////////////////////////////////
-Other standard files:
-
-StdAfx.h, StdAfx.cpp
-    These files are used to build a precompiled header (PCH) file
-    named OpenGL3DTemplate.pch and a precompiled types file named StdAfx.obj.
-
-/////////////////////////////////////////////////////////////////////////////
-Other notes:
-
-AppWizard uses "TODO:" comments to indicate parts of the source code you
-should add to or customize.
-
-/////////////////////////////////////////////////////////////////////////////
+# subway-modified-version
+### description .
+  + it is a 3D game consists of three levels the first level the player have to collect three arrows to kill the enemy at the end of the level ,if the player win the first level he will automatically go to the second level where he have to collect three keys to open the box of the treasure, if the player win the second level he will automatically go to the third level were the player celeberate the winning.
+  
+  
+### How to play.
+  + first you have to press j to start the game .
+  + when reach the end of the first and second level press r.
+  + press p to pause the game .
+  + the player can move with the four basic arrows and jump with space .
+  + the player can speed up the game with pressing x and speed down with c .
+  + the player can move to the thirs person with z .
+  
+### How to run the game 
+  + pull the project and run the file OpenGLMeshLoader.sln .
+  
+### Technologies
+  + C and C++ (openGL).
+ 
